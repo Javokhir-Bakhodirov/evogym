@@ -1,6 +1,6 @@
 import { CgClose } from "react-icons/cg";
 import { AiOutlineMenu } from "react-icons/ai";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Logo from "@/assets/Logo.png";
 import { Button, Link } from "./button/Button";
 import Container from "@/utils";
